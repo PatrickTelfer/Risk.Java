@@ -3,7 +3,7 @@ This is a version of the board game Risk coded in Java featuring a custom made m
 
 ### Some new features we added
  1. **Saving game:** at the start of any players deploying phase the game can be saved (stores the current game state into a txt file). This state can then be loaded up when the program is initially run by clicking the load game button.
- 2. **Reinforcing:** After a player has attacked, they may choose two countries to send troops from one to the other ( Providing the sending country has more than one troop).
+ 2. **Reinforcing:** After a player has attacked, they may choose two countries to send troops from one to the other (Providing the sending country has more than one troop).
  
  
 
