@@ -1066,7 +1066,7 @@ public class Board implements Runnable, ActionListener {
 				
 				
 				if (players.get(defNum).getCountries().size() == 0) {
-					File fanfare = new File("fanfare2.wav");
+					File fanfare = new File("Ressources/" + "fanfare2.wav");
 					playSound(fanfare);
 					
 					
