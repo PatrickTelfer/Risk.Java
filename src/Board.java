@@ -522,7 +522,7 @@ public class Board implements Runnable, ActionListener {
 			}
 			//Sets up how many troops the players can divy out at the start of the game
 			for (int i = 0; i < players.size(); i++) {
-				initialtroops = 1 * players.size();
+				initialtroops = 5 * players.size();
 			}
 			
 			
