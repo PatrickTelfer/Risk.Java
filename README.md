@@ -1,5 +1,5 @@
 # Risk.Java
-This is a version of the board game Risk coded in Java featuring a custom made map. Pictures can be found below.
+This is a version of the board game Risk coded in Java featuring a custom made map made by Rob Nadal, Patrick Telfer and Stephen Robinson. Pictures can be found below.
 
 ### Some new features we added
  1. **Saving game:** at the start of any players deploying phase the game can be saved (stores the current game state into a txt file). This state can then be loaded up when the program is initially run by clicking the load game button.
